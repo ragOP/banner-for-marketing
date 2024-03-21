@@ -569,3 +569,8 @@ a{
       line-height: 1.25rem;
     }
   }
+
+  .call-btn {
+    animation: glow 1.5s infinite alternate;
+    /* your existing styles for call-btn */
+}
