@@ -6,8 +6,8 @@ import './styles.scss'
 
 import { scrollTo } from '../utils';
 
-import Head_bg from '../assets/hero8.png'
-import Headline from '../assets/headline_spandeb1.png'
+import Head_bg from '../assets/banner.png'
+import Headline from '../assets/top.png'
 
 // google tag manager
 
@@ -253,7 +253,7 @@ export default function Fifth_SP() {
 							<img className='topic-img-larger' src = {Headline} alt = "head"/>
 							<img className='topic-img-middle' src = {Head_bg} alt = "head"/>
 							<div className='main-des-5'>Los estadounidenses con más de $10,000 en cuotas obtienen hasta un 100% de condonación financiera bajo este programa de ayuda de emergencia.</div>
-							<div className='main-des-5' style = {{marginTop:"1rem"}}><b>La oportunidad de inscribirse en este programa finaliza esta noche a las 7:00P.M.</b>, por lo que es mejor verificar su elegibilidad sin demora.</div>
+							<div className='main-des-5' style = {{marginTop:"1rem"}}><b>La oportunidad de inscribirse en este programa finaliza esta noche a las 7:00P.M.</b>, verifica tu elegibilidad antes de que el Tiempo Acabe!</div>
 							{/* <div className='main-des-5' style = {{marginTop:"1rem"}}><b>Simplemente responda las siguientes preguntas:</b></div> */}
 						</div>
 						<div className='survey'>
